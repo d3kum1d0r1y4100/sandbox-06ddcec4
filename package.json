@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "test": "echo test",
-    "build": "echo build"
+    "build": "echo build",
+    "preinstall": "echo HYDRA_SANDBOX_TEST_a3581423"
   }
 }
